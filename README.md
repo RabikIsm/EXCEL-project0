@@ -70,7 +70,4 @@ This Excel dashboard is a great example of how advanced data visualization and i
 
 Feel free to fork or reuse this template for your own sales datasets!
 
----
-
-Let me know if you'd like a Markdown-formatted version or help turning this into a PowerPoint summary.
 
